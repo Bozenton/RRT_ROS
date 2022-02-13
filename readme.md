@@ -71,10 +71,10 @@ roslaunch turtlebot_rviz_launchers view_navigation.launch
 
 ## RRT Connect
 
-![](md_files/RRT_Connect.png)
+![](src/my_planner/md_files/RRT_Connect.png)
 
 ## RRT*
 
-![](md_files/RRT_Star.png)
+![](src/my_planner/md_files/RRT_Star.png)
 
 
